@@ -96,7 +96,7 @@ Task Five Tests Passed!
 At the end of this project, a certificate of completion was earned.  
 
 <p align="center">
-  <img src="certificate.png" alt="Certificate" width="600"/>
+  <img src="https://github.com/kuldeepthinks/JP-MORGAN-SOFTWARE-ENGINEERING-JOB-SIMULATION-TASKS/blob/main/src/image" alt="Certificate" width="600"/>
 </p>
 
 ---
